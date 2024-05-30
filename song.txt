@@ -4,5 +4,10 @@ sword and spear
 wall of shields
 the people who left 
 will return verysoon
+<<<<<<< HEAD
 hlo hlo
 bye bye
+=======
+busy 
+free
+>>>>>>> feature
